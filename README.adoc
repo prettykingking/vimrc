@@ -1,0 +1,3 @@
+# vimrc
+
+An slim Vim configuration based on https://github.com/amix/vimrc[vimrc].
